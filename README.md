@@ -1,5 +1,5 @@
 # CitySafe
-Top Ten Project at VioletHacks @ Github HQ
+Top Ten Finalist at VioletHacks @ Github HQ
 
 Google maps integration tool that ranks routes from start to destination by a safety using IBM's Open Crime Data API to recommend the safest route to users. CitySafe aims to empower people to feel safe and comfortable when traveling alone, at night, or in unfamiliar areas. 
 
