@@ -1,6 +1,6 @@
 # CitySafe
 
-Google maps integration tool that ranks routes from start to destination by a safety score to recommend the safest route for to take.
+Google maps integration tool that ranks routes from start to destination by a safety score to recommend the safest route to take.
 
 ## Marvel App Mockup
 [CitySafe IOS Mockup](https://marvelapp.com/ca20i07/screen/60198474)
